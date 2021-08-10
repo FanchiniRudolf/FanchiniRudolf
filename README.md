@@ -5,10 +5,15 @@ He/Him
 Hello There!
 # Table of contents
 
-1. [Section 1](#section-1)
-2. [Section 2](#section-2)
-    - [Subsection a](#subsection-a)
-    - [Subsection b](#subsection-b)
+1. [Skills](#Skills)
+    - [Programming Languages](##Programming Languages)
+    - [Cloud Computing](##Cloud Computing)
+    - [Database](##Database)
+2. [Passions](#✨Things I am passionate about)
+    - [Current Work](##🔭 I’m currently working on)
+    - [Collabs](## 👯 I’m looking to collaborate on)
+    - [Ask me about](## 👯 I’m looking to collaborate on)
+3. [Contact](📫 How to reach me:)
 
 # Skills
 ## Programming Languages:
@@ -34,6 +39,11 @@ Hello There!
 
 
 # ✨Things I am passionate about
+* Quantum Computing
+* Cloud Computing
+* Artificial Intelligence
+* Blockchain
+* Databases
 
 ## 🔭 I’m currently working on 
 [Zubale.](https://www.zubale.com/)

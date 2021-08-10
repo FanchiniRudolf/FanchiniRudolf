@@ -5,15 +5,16 @@ He/Him
 Hello There!
 # Table of contents
 
-1. [Skills](#Skills)
-    - [Programming Languages](##Programming Languages)
-    - [Cloud Computing](##Cloud Computing)
-    - [Database](##Database)
-2. [Passions](#✨Things I am passionate about)
-    - [Current Work](##🔭 I’m currently working on)
-    - [Collabs](## 👯 I’m looking to collaborate on)
-    - [Ask me about](## 👯 I’m looking to collaborate on)
-3. [Contact](📫 How to reach me:)
+- [Table of contents](#table-of-contents)
+- [Skills](#skills)
+  - [Programming Languages:](#programming-languages)
+  - [Cloud Computing:](#cloud-computing)
+  - [Database:](#database)
+- [✨Things I am passionate about](#things-i-am-passionate-about)
+  - [🔭 I’m currently working on](#-im-currently-working-on)
+  - [👯 I’m looking to collaborate on](#-im-looking-to-collaborate-on)
+  - [💬 Ask me about](#-ask-me-about)
+- [📫 How to reach me:](#-how-to-reach-me)
 
 # Skills
 ## Programming Languages:
